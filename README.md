@@ -1,0 +1,1 @@
+Este repositorio foi criado para facilitar a preparação de eventos no quesito de programação dos nossos projetos.
